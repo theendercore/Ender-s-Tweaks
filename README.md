@@ -17,9 +17,9 @@ A pack I made for my self but feel free to use it.
 
 ### This pack re-textures :
 - Sheep in to Ender Entities  
-- Retextured Beetroots to Rice (Now with eating animations mod  support)
-- Retextured Beetroot Seeds to Rice Seed
-- Retextured Beetroot Soup to Bowl of Rice  (Now with eating animations mod  support) [Might be broken]
+- Beetroots to Rice (Now with eating animations mod  support)
+- Beetroot Seeds to Rice Seed
+- Beetroot Soup to Bowl of Rice  (Now with eating animations mod  support) [Might be broken]
 
 ### This pack adds textures for :
 - Ender Miner ( netherite_pickaxe{CustomModelData:1} )
