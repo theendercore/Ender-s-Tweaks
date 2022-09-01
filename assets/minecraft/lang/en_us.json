@@ -50,6 +50,9 @@
 	"block.minecraft.beetroots": "Rice",
  	"item.minecraft.beetroot": "Rice",
 	"item.minecraft.beetroot_seeds": "Rice Seeds",
-	"item.minecraft.beetroot_soup": "Bowl of Rice"
-
+	"item.minecraft.beetroot_soup": "Bowl of Rice",
+	
+	"version - 1.8": 0,
+	"advancements.husbandry.netherite_hoe.title": "Get Hoe",
+	"advancements.husbandry.netherite_hoe.description": "Get Netherite Hoe"
 }
