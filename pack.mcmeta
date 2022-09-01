@@ -1,6 +1,7 @@
 {
     "pack": {
         "pack_format": 9,
-        "description": "\u00a75Tweaks to make you want to cringe"
+        "description": "\u00a75Tweaks to make you want to cringe",
+        "pack_verison":"1.8.0"
     }
 }
