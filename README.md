@@ -3,10 +3,9 @@
 A pack I made for my self but feel free to use it.
 
 This pack renames :
-
-Looting to Lewding
-Ender Chests to Endy Wendy Chests
-Wood to UwUod
+- Looting to Lewding
+- Ender Chests to Endy Wendy Chests
+- Wood to UwUod
 Diorite to Holystone
 Zombie Villager to Zillager
 Zombified Piglin to Ziglin
