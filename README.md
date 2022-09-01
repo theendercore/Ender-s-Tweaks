@@ -1,5 +1,4 @@
-![pack](./pack.png)
-# Ender's Tweaks
+# Ender's Tweaks ![pack](./pack.png)
 
 A pack I made for my self but feel free to use it.
 
