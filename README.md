@@ -10,9 +10,10 @@ A pack I made for my self but feel free to use it.
 - Zombified Piglin to Ziglin
 - Zombie Horse to Zorse Spawn
 - Bone Meal to BMCT (Bone Marrow Children Token)
-- Renamed Beetroots to Rice
-- Renamed Beetroot Seeds to Rice Seeds
-- Renamed Beetroot soup to Bowl of Rice
+- Beetroots to Rice
+- Beetroot Seeds to Rice Seeds
+- Beetroot soup to Bowl of Rice
+- Serious Dedication to Get Hoe
 
 ### This pack re-textures :
 - Sheep in to Ender Entities  
