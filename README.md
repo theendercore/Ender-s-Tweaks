@@ -23,3 +23,6 @@ A pack I made for my self but feel free to use it.
 ### This pack adds textures for :
 - Ender Miner ( netherite_pickaxe{CustomModelData:1} )
 - Ender Blaster ( netherite_sword{CustomModelData:1} )
+
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M7DWJCH)
