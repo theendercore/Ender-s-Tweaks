@@ -1,8 +1,8 @@
 {
   "overrides": [
     {
-      "predicate": { "name": "/.*End.*/" },
-      "model": "minecraft:item/netherite_pickaxe/ender_miner"
+      "predicate": { "name": "/.*Ender Blaster.*/" },
+      "model": "minecraft:item/netherite_sword/ender_blaster"
     }
   ]
 }
