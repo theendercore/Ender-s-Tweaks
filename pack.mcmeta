@@ -1,7 +1,11 @@
 {
     "pack": {
-        "pack_format": 13,
+        "pack_format": 15,
         "description": "\u00a75Tweaks to make you want to cringe",
-        "pack_version":"1.9.1"
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 18
+        },
+        "pack_version": "1.9.3"
     }
 }

@@ -22,6 +22,7 @@ A pack I made for my self but feel free to use it.
 - Beetroots to Rice (Now with eating animations mod  support)
 - Beetroot Seeds to Rice Seed
 - Beetroot Soup to Bowl of Rice  (Now with eating animations mod  support) [Might be broken]
+- Suspicious Stew to have a little mongus in it
 
 ### This pack adds textures for (Needs Chime):
 - Ender Miner ( Needs "End" in name )
